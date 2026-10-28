@@ -1,6 +1,6 @@
 # Privacy Policy — Arrow Snake Puzzle
 
-**Last updated: 18 October 2026**
+**Last updated: 28 October 2026**
 
 This policy explains what the Arrow Snake Puzzle mobile game
 (`com.snackpuzzle.snack_puzzle_game`) does with your data.
@@ -98,11 +98,23 @@ Google's handling of this data is governed by its own policies:
   screen so you can change your answer later.
 - Declining personalised ads does not lock you out of anything.
 
+## Purchases (Google Play)
+
+The game offers optional in-app purchases: **Remove Ads**, a monthly subscription, and
+**coin packs**, one-time purchases of in-game coins. They are bought and paid for
+entirely through **Google Play**: we never see or store your payment details.
+Google tells the game only that a purchase was made, so ads can be turned off or
+coins added. The same confirmation is used to restore Remove Ads on a new phone
+or after a reinstall. You can cancel the subscription at any time in Google Play
+under Subscriptions; ads return once it ends. Purchases are handled by Google and
+are subject to its terms and refund policy.
+
 ## Who receives data
 
 We do not sell or share your data with anyone. The only services that receive
-data from the game are the ones named above: **Google** (AdMob, Firebase and,
-if you sign in, Play Games) and **Supabase** (the leaderboard).
+data from the game are the ones named above: **Google** (AdMob, Firebase,
+Google Play purchases and, if you sign in, Play Games) and **Supabase** (the
+leaderboard).
 
 ## Children
 
